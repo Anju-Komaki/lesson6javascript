@@ -14,13 +14,13 @@ var str1 = 'JavaScriptを覚えよう'
 
 //四則演算
 //足し算
-alert(4 + 3);
+alert(3 + 3);
 //引き算
-alert(8 - 5);
+alert(9 - 5);
 //掛け算
-alert(2 * 6);
+alert(5 * 6);
 //割り算
-alert(10 / 2);
+alert(12 / 2);
 
 var str1 = 'Hello';
 var str2 = 'World!!';
